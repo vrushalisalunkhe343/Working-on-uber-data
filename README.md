@@ -1,4 +1,4 @@
-Working on Uber Ride Data Analysis
+**Working on Uber Ride Data Analysis**
 
 Performed Exploratory Data Analysis (EDA) on the Uber Ride dataset using Python to uncover ride patterns, operational challenges, and customer behavior. The project involved data cleaning, preprocessing, and visualization to analyze ride requests, trip status, pickup locations, and ride outcomes.
 
