@@ -40,4 +40,4 @@ The screenshots below demonstrate the Exploratory Data Analysis (EDA) performed 
 ![Ride Status Distribution]([ride_status_distribution.png](https://github.com/vrushalisalunkhe343/Working-on-uber-data/blob/main/Screenshot%202026-07-07%20145039.png))
 
 #### City vs Airport Ride Analysis
-![City vs Airport Analysis](https://github.com/vrushalisalunkhe343/Working-on-uber-data/blob/main/Screenshot%202026-07-07%20145004.png)
+![City vs Airport Analysis]([https://github.com/vrushalisalunkhe343/Working-on-uber-data/blob/main/Screenshot%202026-07-07%20145004.png](https://github.com/vrushalisalunkhe343/Working-on-uber-data/blob/main/Screenshot%202026-07-07%20145039.png))
